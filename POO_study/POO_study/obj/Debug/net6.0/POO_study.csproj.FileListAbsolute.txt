@@ -1,0 +1,15 @@
+C:\Users\Felipe\source\repos\POO_study\POO_study\obj\Debug\net6.0\POO_study.csproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\POO_study\POO_study\obj\Debug\net6.0\POO_study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\POO_study\POO_study\obj\Debug\net6.0\POO_study.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\POO_study\POO_study\obj\Debug\net6.0\POO_study.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\POO_study\POO_study\obj\Debug\net6.0\POO_study.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\POO_study\POO_study\bin\Debug\net6.0\POO_study.exe
+C:\Users\Felipe\source\repos\POO_study\POO_study\bin\Debug\net6.0\POO_study.deps.json
+C:\Users\Felipe\source\repos\POO_study\POO_study\bin\Debug\net6.0\POO_study.runtimeconfig.json
+C:\Users\Felipe\source\repos\POO_study\POO_study\bin\Debug\net6.0\POO_study.dll
+C:\Users\Felipe\source\repos\POO_study\POO_study\bin\Debug\net6.0\POO_study.pdb
+C:\Users\Felipe\source\repos\POO_study\POO_study\obj\Debug\net6.0\POO_study.dll
+C:\Users\Felipe\source\repos\POO_study\POO_study\obj\Debug\net6.0\refint\POO_study.dll
+C:\Users\Felipe\source\repos\POO_study\POO_study\obj\Debug\net6.0\POO_study.pdb
+C:\Users\Felipe\source\repos\POO_study\POO_study\obj\Debug\net6.0\POO_study.genruntimeconfig.cache
+C:\Users\Felipe\source\repos\POO_study\POO_study\obj\Debug\net6.0\ref\POO_study.dll
