@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe\\Desktop\\projetos\\ContaBancaria\\POO_study\\POO_study\\POO_study.csproj": {}
+    "C:\\Users\\Felipe\\Desktop\\projetos\\ContaBancaria\\Conta_Bancaria_CSharp\\POO_study\\POO_study\\POO_study.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe\\Desktop\\projetos\\ContaBancaria\\POO_study\\POO_study\\POO_study.csproj": {
+    "C:\\Users\\Felipe\\Desktop\\projetos\\ContaBancaria\\Conta_Bancaria_CSharp\\POO_study\\POO_study\\POO_study.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\projetos\\ContaBancaria\\POO_study\\POO_study\\POO_study.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\projetos\\ContaBancaria\\Conta_Bancaria_CSharp\\POO_study\\POO_study\\POO_study.csproj",
         "projectName": "POO_study",
-        "projectPath": "C:\\Users\\Felipe\\Desktop\\projetos\\ContaBancaria\\POO_study\\POO_study\\POO_study.csproj",
+        "projectPath": "C:\\Users\\Felipe\\Desktop\\projetos\\ContaBancaria\\Conta_Bancaria_CSharp\\POO_study\\POO_study\\POO_study.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe\\Desktop\\projetos\\ContaBancaria\\POO_study\\POO_study\\obj\\",
+        "outputPath": "C:\\Users\\Felipe\\Desktop\\projetos\\ContaBancaria\\Conta_Bancaria_CSharp\\POO_study\\POO_study\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
