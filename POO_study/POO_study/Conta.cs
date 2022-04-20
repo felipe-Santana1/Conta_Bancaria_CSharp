@@ -8,17 +8,26 @@ namespace POO_study
 {
     public class Conta
     {
+        public Conta(int numero, double saldo) {
+            this.Numero = numero;
+            this.Limite = Limite; 
+            Conta.ContasCriadas ++;
+        }
+
         public Conta(int numero)
         {
            this.Numero = numero;
         }
-
         private double Saldo { get;  set; }
         public double Limite { get; set; }
         public int Numero { get; private set; }
+        public static int ContasCriadas { get; set; }
 
         //metodos//
-
+        public static int ProximaContaCriada() { 
+        
+            return Conta.ContasCriadas +1;
+        }
         public void Deposita(double valor) { 
             this.Saldo  += valor;
         }
